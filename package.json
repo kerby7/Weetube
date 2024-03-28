@@ -1,13 +1,13 @@
 {
   "name": "yotube-clone",
   "version": "1.0.0",
-  "description": "",
+  "description": "A modern YouTube clone",
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shounak Chakraborty",
   "license": "ISC",
   "dependencies": {
     "@emotion/react": "^11.11.4",
@@ -17,6 +17,7 @@
     "axios": "^1.6.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-player": "^2.15.1",
     "react-router-dom": "^6.22.3"
   },
   "devDependencies": {

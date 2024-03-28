@@ -22,7 +22,7 @@ function SearchBar() {
         className="search-bar"
         placeholder="Search here"
         value=""
-        onChange={() => {}}
+        onChange={(e) => {}}
       ></input>
       <IconButton type="submit" sx={{p: '10px', color: 'red'}}>
         <Search />
