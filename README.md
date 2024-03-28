@@ -1,6 +1,5 @@
 # YouTube-2.0
 
-Certainly, here's the description in bullet points:
 
 Framework and Libraries: Developed using React.js, React Router DOM for routing, Axios for API handling, and Material-UI (MUI) for styling and responsiveness.
 
